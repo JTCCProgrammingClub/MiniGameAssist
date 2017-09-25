@@ -3,7 +3,6 @@ package com.game.desktop;
 import com.badlogic.gdx.backends.lwjgl.LwjglApplication;
 import com.badlogic.gdx.backends.lwjgl.LwjglApplicationConfiguration;
 
-import game.BasicGame;
 import game.GameApp;
 import game.GameMain;
 
